@@ -1,0 +1,1 @@
+<li><a href="/page/view/{name}">{title}</a></li>
