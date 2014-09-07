@@ -12,3 +12,6 @@ Class Controller_test extends Controller
         templates::gI()->set_block('title','test post controller');
     }
 }
+if(isset($title)) {
+    include_once 'main.php';
+}
