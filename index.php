@@ -1,5 +1,5 @@
 <?php
-
+test9)
 header ( "Content-type: text/html; Charset=utf-8" );
 
 ini_set('display_errors', 'On'); // вывод ошибок на экран, чтобы понять в чем проблема (на время devel стадии, перед release УДАЛИТЬ!!!)
